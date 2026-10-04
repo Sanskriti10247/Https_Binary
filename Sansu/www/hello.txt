@@ -1,3 +1,0 @@
-hello from the java server!
-same BHTTP/1 protocol, java side.
-if you can read this with the python bcurl, interop passed :)
